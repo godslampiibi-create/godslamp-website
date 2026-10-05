@@ -30,3 +30,29 @@ button {
 button:hover {
     background: #0d5dcc;
 }
+.hero {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.welcome {
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    margin-bottom: 20px;
+}
+
+.hero h1 {
+    font-size: 64px;
+    margin: 0;
+}
+
+.hero h2 {
+    font-size: 32px;
+    margin: 15px 0 25px;
+}
+
+.intro {
+    max-width: 600px;
+    margin: 0 auto;
+}
