@@ -56,3 +56,40 @@ button:hover {
     max-width: 600px;
     margin: 0 auto;
 }
+.journey {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.journey h1 {
+    font-size: 56px;
+    margin: 0;
+}
+
+.roadmap {
+    margin-top: 50px;
+    display: grid;
+    gap: 20px;
+}
+
+.skill {
+    background: white;
+    padding: 25px;
+    border-radius: 12px;
+    text-align: left;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+}
+
+.skill h2 {
+    margin-top: 0;
+    font-size: 24px;
+}
+
+.skill p {
+    margin-bottom: 0;
+    font-size: 17px;
+}
+
+.journey button {
+    margin-top: 40px;
+}
